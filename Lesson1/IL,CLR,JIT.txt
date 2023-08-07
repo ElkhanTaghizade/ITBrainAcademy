@@ -1,0 +1,10 @@
+IL
+After writing the code, you compile the code to run it. The compilation process actually converts your written code into the binaries that can be understood by the machine only. No matter you write code in C# or Visual Basic, similar binaries will be created for your code to be run on Dot Net based platform. The binaries this created are known as Intermediate Language (IL) or Microsoft Intermediate Language (MSIL) or Common Intermediate Language (CIL).
+
+CLR
+Common Language Runtime or CLR is a Virtual Machine that is controlled by the .Net framework. CLR is used to run a binary created by compiling the code.
+
+CLR takes up the Intermediate Language and converts it into native instructions that are understood by the CPU.
+
+JIT
+Just In Time or JIT Compilation is the process of taking those binaries of the Intermediate Language and converting them to native instructions that are understood by the machine.
