@@ -1,0 +1,8 @@
+C:\Yazılım C\CSharp_Task2\bin\Debug\CSharp_Task2.exe.config
+C:\Yazılım C\CSharp_Task2\bin\Debug\CSharp_Task2.exe
+C:\Yazılım C\CSharp_Task2\bin\Debug\CSharp_Task2.pdb
+C:\Yazılım C\CSharp_Task2\obj\Debug\CSharp_Task2.csproj.AssemblyReference.cache
+C:\Yazılım C\CSharp_Task2\obj\Debug\CSharp_Task2.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\CSharp_Task2\obj\Debug\CSharp_Task2.csproj.CoreCompileInputs.cache
+C:\Yazılım C\CSharp_Task2\obj\Debug\CSharp_Task2.exe
+C:\Yazılım C\CSharp_Task2\obj\Debug\CSharp_Task2.pdb

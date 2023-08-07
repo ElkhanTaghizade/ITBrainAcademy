@@ -15,12 +15,30 @@ namespace Csharp_Task2
         static void Main(string[] args)
         {
             #region Numbers Array
-            //int[] numbers = { 12, 45, 67, 23, 9, 56, 89, 9, 37, 7, 18, 12, 9, 77 };
+            int[] numbers = { 12, 45, 67, 23, 9, 56, 89, 9, 37, 7, 18, 12, 9, 77 };
 
-            //Console.WriteLine(numbers.Max());
-            //Console.WriteLine(numbers.Min());
-            //Console.WriteLine(numbers.Sum());
-
+            int maxNum = numbers[0];
+            int minNum = numbers[0];
+            int result = 0;
+           foreach(var item in numbers)
+            {
+                if(item>maxNum)
+                {
+                    maxNum = item;
+                }
+                if(item<minNum)
+                {
+                    minNum = item;
+                }
+            }
+           for (int i = 0; i<numbers.Length; i++)
+            {
+                result = result + numbers[i];
+            }
+            Console.WriteLine("Max number:"+maxNum);
+            Console.WriteLine("Min number:"+minNum);
+            Console.WriteLine("Result:" + result);
+            Console.ReadLine();
             //int count=0;
 
             //for(int i = 0; i < numbers.Length; i++)
@@ -69,6 +87,7 @@ namespace Csharp_Task2
             //Console.ReadLine();
             #endregion
 
+
             #region Calculator (with Switch Case)
             //Console.WriteLine("                                                Calculator");
             //Console.WriteLine("Enter first number:");
@@ -101,53 +120,54 @@ namespace Csharp_Task2
             #endregion
             #region Library Book Inventory Management
 
-            Console.WriteLine();
+            //Console.WriteLine();
 
-            string[] bookTitles = { "Book 1", "Book 2", "Book 3", "Book 4", "Book 5" };
-            string[] bookAuthors = { "Author 1", "Author 2", "Author 3", "Author 4", "Author 5" };
-            string[] bookGenres = { "Fiction", "Mystery", "Romance", "Fantasy", "Sci-Fi" };
-            int[] bookCopiesAvailable = { 5, 3, 7, 0, 2 };
-            Console.WriteLine("Type all to display the list");
-            string list=Console.ReadLine();
-            Console.WriteLine("Enter the name of the book you are looking for:");
-            string book=Console.ReadLine();
+            //string[] bookTitles = { "Book 1", "Book 2", "Book 3", "Book 4", "Book 5" };
+            //string[] bookAuthors = { "Author 1", "Author 2", "Author 3", "Author 4", "Author 5" };
+            //string[] bookGenres = { "Fiction", "Mystery", "Romance", "Fantasy", "Sci-Fi" };
+            //int[] bookCopiesAvailable = { 5, 3, 7, 0, 2 };
+            //Console.WriteLine("Type all to display the list");
+            //string list = Console.ReadLine();
+            //Console.WriteLine("Enter the name of the book you are looking for:");
+            //string book = Console.ReadLine();
 
-            for(int i=0; i<bookTitles.Length; i++)
-            {
-                for(int j=0; j<bookAuthors.Length; j++)
-                {
-                    for (int k = 0; k < bookGenres.Length; k++)
-                        {
-                            for (int c = 0; c < bookCopiesAvailable.Length; c++)
-                                {
-                                    if (j == i && i==k && k==c)
-                                      {
+            //for (int i = 0; i < bookTitles.Length; i++)
+            //{
+            //    for (int j = 0; j < bookAuthors.Length; j++)
+            //    {
+            //        for (int k = 0; k < bookGenres.Length; k++)
+            //        {
+            //            for (int c = 0; c < bookCopiesAvailable.Length; c++)
+            //            {
+            //                if (j == i && i == k && k == c)
+            //                {
 
-                                          if (list == "all")
+            //                    if (list == "all")
 
-                                             {
-                                                Console.WriteLine($"There are {bookCopiesAvailable[c]} pieces from the book {bookTitles[i]} in the {bookGenres[k]} genre whose author is {bookAuthors[j]}.");
-                                    break;    } 
-                                          if (book == bookTitles[i])
-                                            {
-                                               Console.WriteLine($"There are {bookCopiesAvailable[c]} copies of the book you are looking for");
-                                            }
-                                        else if (book != bookTitles[i])
-                                            {
-                                               if (i == 1)
-                                                   {
-                                                      Console.WriteLine("The copy of the book you are looking for is not available");
-                                                   }
-                                            }
-                                       }
-                           
-                                 }
-                        }
-                    
-                   
-                }
-            }
-            Console.ReadLine();
+            //                    {
+            //                        Console.WriteLine($"There are {bookCopiesAvailable[c]} pieces from the book {bookTitles[i]} in the {bookGenres[k]} genre whose author is {bookAuthors[j]}.");
+            //                        break;
+            //                    }
+            //                    if (book == bookTitles[i])
+            //                    {
+            //                        Console.WriteLine($"There are {bookCopiesAvailable[c]} copies of the book you are looking for");
+            //                    }
+            //                    else if (book != bookTitles[i])
+            //                    {
+            //                        if (i == 1)
+            //                        {
+            //                            Console.WriteLine("The copy of the book you are looking for is not available");
+            //                        }
+            //                    }
+            //                }
+
+            //            }
+            //        }
+
+
+            //    }
+            //}
+            //Console.ReadLine();
 
 
             #endregion 
