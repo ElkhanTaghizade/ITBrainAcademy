@@ -1,0 +1,8 @@
+C:\Yazılım C\CSharp_Task3\bin\Debug\CSharp_Task3.exe.config
+C:\Yazılım C\CSharp_Task3\bin\Debug\CSharp_Task3.exe
+C:\Yazılım C\CSharp_Task3\bin\Debug\CSharp_Task3.pdb
+C:\Yazılım C\CSharp_Task3\obj\Debug\CSharp_Task3.csproj.AssemblyReference.cache
+C:\Yazılım C\CSharp_Task3\obj\Debug\CSharp_Task3.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\CSharp_Task3\obj\Debug\CSharp_Task3.csproj.CoreCompileInputs.cache
+C:\Yazılım C\CSharp_Task3\obj\Debug\CSharp_Task3.exe
+C:\Yazılım C\CSharp_Task3\obj\Debug\CSharp_Task3.pdb
