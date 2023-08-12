@@ -1,0 +1,8 @@
+C:\Yazılım C\CSharp_Task4\bin\Debug\CSharp_Task4.exe.config
+C:\Yazılım C\CSharp_Task4\bin\Debug\CSharp_Task4.exe
+C:\Yazılım C\CSharp_Task4\bin\Debug\CSharp_Task4.pdb
+C:\Yazılım C\CSharp_Task4\obj\Debug\CSharp_Task4.csproj.AssemblyReference.cache
+C:\Yazılım C\CSharp_Task4\obj\Debug\CSharp_Task4.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\CSharp_Task4\obj\Debug\CSharp_Task4.csproj.CoreCompileInputs.cache
+C:\Yazılım C\CSharp_Task4\obj\Debug\CSharp_Task4.exe
+C:\Yazılım C\CSharp_Task4\obj\Debug\CSharp_Task4.pdb
