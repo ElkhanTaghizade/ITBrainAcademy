@@ -17,9 +17,9 @@ namespace CSharp_Task4
             Console.WriteLine("Enter your username to login to the system:");
 
             Hashtable user = new Hashtable();
-            user.Add("elkhan123", "Elkhan Taghizade");
-            user.Add("ilkin123", "Ilkin Novruzov");
-            user.Add("nesir123", "Nasir Asadov");
+            user.Add("elkhan1234", "Elkhan Taghizade");
+            user.Add("ilkin1234", "Ilkin Novruzov");
+            user.Add("nesir1234", "Nasir Asadov");
             ArrayList keys= new ArrayList();
             keys.AddRange(user.Keys);
             object username=Console.ReadLine();
