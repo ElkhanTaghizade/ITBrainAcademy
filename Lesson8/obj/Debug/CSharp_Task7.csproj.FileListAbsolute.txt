@@ -1,0 +1,8 @@
+C:\Yazılım C\CSharp_Task7\bin\Debug\CSharp_Task7.exe.config
+C:\Yazılım C\CSharp_Task7\bin\Debug\CSharp_Task7.exe
+C:\Yazılım C\CSharp_Task7\bin\Debug\CSharp_Task7.pdb
+C:\Yazılım C\CSharp_Task7\obj\Debug\CSharp_Task7.csproj.AssemblyReference.cache
+C:\Yazılım C\CSharp_Task7\obj\Debug\CSharp_Task7.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\CSharp_Task7\obj\Debug\CSharp_Task7.csproj.CoreCompileInputs.cache
+C:\Yazılım C\CSharp_Task7\obj\Debug\CSharp_Task7.exe
+C:\Yazılım C\CSharp_Task7\obj\Debug\CSharp_Task7.pdb
