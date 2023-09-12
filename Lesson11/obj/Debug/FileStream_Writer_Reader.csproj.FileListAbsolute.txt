@@ -1,0 +1,8 @@
+C:\Yazılım C\FileStream_Writer_Reader\bin\Debug\FileStream_Writer_Reader.exe.config
+C:\Yazılım C\FileStream_Writer_Reader\bin\Debug\FileStream_Writer_Reader.exe
+C:\Yazılım C\FileStream_Writer_Reader\bin\Debug\FileStream_Writer_Reader.pdb
+C:\Yazılım C\FileStream_Writer_Reader\obj\Debug\FileStream_Writer_Reader.csproj.AssemblyReference.cache
+C:\Yazılım C\FileStream_Writer_Reader\obj\Debug\FileStream_Writer_Reader.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\FileStream_Writer_Reader\obj\Debug\FileStream_Writer_Reader.csproj.CoreCompileInputs.cache
+C:\Yazılım C\FileStream_Writer_Reader\obj\Debug\FileStream_Writer_Reader.exe
+C:\Yazılım C\FileStream_Writer_Reader\obj\Debug\FileStream_Writer_Reader.pdb
