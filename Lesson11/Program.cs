@@ -19,7 +19,6 @@ namespace FileStream_Writer_Reader
                 string data=Console.ReadLine();
                 sw.WriteLine(data);
                 sw.WriteLine("Added:"+DateTime.Now);
-                sw.Flush();
                 sw.Close();
                 fs.Close();
                 string data1=data+" : "+DateTime.Now;
