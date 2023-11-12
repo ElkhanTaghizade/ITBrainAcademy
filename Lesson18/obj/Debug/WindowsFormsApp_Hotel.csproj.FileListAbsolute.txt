@@ -1,0 +1,10 @@
+C:\Yazılım C\WindowsFormsApp_Hotel\bin\Debug\WindowsFormsApp_Hotel.exe.config
+C:\Yazılım C\WindowsFormsApp_Hotel\bin\Debug\WindowsFormsApp_Hotel.exe
+C:\Yazılım C\WindowsFormsApp_Hotel\bin\Debug\WindowsFormsApp_Hotel.pdb
+C:\Yazılım C\WindowsFormsApp_Hotel\obj\Debug\WindowsFormsApp_Hotel.csproj.AssemblyReference.cache
+C:\Yazılım C\WindowsFormsApp_Hotel\obj\Debug\WindowsFormsApp_Hotel.RoomId.resources
+C:\Yazılım C\WindowsFormsApp_Hotel\obj\Debug\WindowsFormsApp_Hotel.Properties.Resources.resources
+C:\Yazılım C\WindowsFormsApp_Hotel\obj\Debug\WindowsFormsApp_Hotel.csproj.GenerateResource.cache
+C:\Yazılım C\WindowsFormsApp_Hotel\obj\Debug\WindowsFormsApp_Hotel.csproj.CoreCompileInputs.cache
+C:\Yazılım C\WindowsFormsApp_Hotel\obj\Debug\WindowsFormsApp_Hotel.exe
+C:\Yazılım C\WindowsFormsApp_Hotel\obj\Debug\WindowsFormsApp_Hotel.pdb
